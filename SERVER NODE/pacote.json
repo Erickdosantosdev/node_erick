@@ -1,0 +1,17 @@
+{
+    "name": "auth-example",
+    "version": "1.0.0",
+    "description": "Authentication example with Node.js",
+    "main": "server.js",
+    "dependencies": {
+      "bcryptjs": "^2.4.3",
+      "express": "^4.17.1",
+      "jsonwebtoken": "^8.5.1"
+    },
+    "scripts": {
+      "start": "node server.js"
+    },
+    "author": "Grupo Galo marketing",
+    "license": "ISC"
+  }
+  
